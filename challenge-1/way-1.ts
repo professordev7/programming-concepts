@@ -1,6 +1,7 @@
-function printMedian(nums) {
+function printMedian(nums: number[]) {
 	// SORTING
-	nums.sort((a, b) => a - b); // *** Perfect use case for .sort() ****
+	// nums.sort(); // xxx not worked as expected (ASC order)
+	nums.sort((a, b) => a - b); // *** Perfect use case for ascending .sort() ****
 
 	const length = nums.length;
 

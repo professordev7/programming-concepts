@@ -1,6 +1,6 @@
 # Main Goal
 
-It's just a simple javaScript interview question.
+It's just a simple javaScript challenge.
 We have a stream of data which stored as an array. We wanna calculate the median of the data.
 -- NOTE: Keep in mind that first of all we need to sort them then calculate.
 

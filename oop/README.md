@@ -5,4 +5,4 @@ OOP has four basic concepts: Encapsulation, Abstraction, Inheritance, Polymorphi
 
 
 ## Useful resources:
-### [JavaScript Array.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+### [JavaScript OOP](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming#oop_and_javascript)
