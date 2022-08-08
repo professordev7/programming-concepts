@@ -2,6 +2,7 @@
 
 SOLID is an acronym that stands for five principles that you should follow to not put your feet into possible software development bugs and issues.
 Let's review the step by step with some real examples.
+NOTE: Our goal is to write code that adheres to the dependency inversion principle. This means that we should "depend upon Abstractions and do not depend upon concretions".
 
 ## Concepts:
 - SoC - Separation of Concerns principle
